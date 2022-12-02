@@ -1,4 +1,4 @@
-#Ryan Cordial
+##Ryan Cordial
 #### College Student that currently learning web development
 I am a college student currently studying at Colegio De Montalban who is already in the 3rd College and still studying to graduate and also I live in the Philippines, I really passionate about programming and creating different types of websites.
 
