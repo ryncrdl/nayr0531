@@ -6,9 +6,10 @@ I'm currently studying at Colegio De Montalban who is already in the 3rd College
 <style>
     .tech-stack-skill{
     background: #BE8655;
+    
     }
 </style>
-<span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' height='20' width='20'> HTML</span> {#identifier .tech-stack-skill}
+# <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' height='20' width='20'> HTML</span> {#identifier .tech-stack-skill}
 HTML / CSS / SCSS / JAVASCRIPT
 
 - 🌱 I’m currently learning Javascript 
