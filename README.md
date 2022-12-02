@@ -3,13 +3,7 @@ College Student that currently learning web development
 I'm currently studying at Colegio De Montalban who is already in the 3rd College and still studying to graduate and also I live in the Philippines, I really passionate about programming and creating different types of websites.
 
 ## TECH STACK: 
-<style>
-    .tech-stack-skill{
-    color: #BE8655;
-    }
-</style>
-
-<span class='tech-stack-skill'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' height='20' width='20'> HTML</span> 
+![#BE8655](<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='html' height='20' width='20'> HTML)
 HTML / CSS / SCSS / JAVASCRIPT
 
 - 🌱 I’m currently learning Javascript 
