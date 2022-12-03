@@ -6,6 +6,12 @@
 ## TECH STACK: 
 HTML / CSS / SCSS / JAVASCRIPT
 
+## Recently works
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nayr0531&repo=Generate-password)]([https://github.com/nayr0531/Generate-password](https://github.com/nayr0531/Generate-password))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nayr0531&repo=spense-solution)]([https://github.com/nayr0531/spense-solution](https://github.com/nayr0531/spense-solution))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nayr0531&repo=Chirp-solution)]([https://github.com/nayr0531/Chirp-solution](https://github.com/nayr0531/Chirp-solution))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nayr0531&repo=Inslogo)]([https://github.com/nayr0531/Inslogo](https://github.com/nayr0531/Inslogo))
+
 ## Recently used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayr0531)](https://github.com/anuraghazra/github-readme-stats)
 
