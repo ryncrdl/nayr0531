@@ -1,8 +1,6 @@
 # Hi👋, I'm RYAN
 I'm a skilled developer with expertise in creating systems using the MERN stack, as well as designing and building both static and dynamic websites. I'm passionate about helping my clients achieve their goals and I'm always eager to learn new ways to improve my skills and interact with different clients. Whether you're looking to build a complex web application or simply need a professional-looking website, I'm here to help. Let's work together to bring your ideas to life!
 
-![Profile views](https://gpvc.arturio.dev/nayr0531)  
-
 ## TECH STACK: 
 HTML / CSS / SCSS / JAVASCRIPT / MONGODB / EXPRESS JS / REACT / NODE JS / MERN STACK
 
