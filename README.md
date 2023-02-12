@@ -1,10 +1,10 @@
 # Hi👋, I'm RYAN
-![Hi , I'm Ryan](https://user-images.githubusercontent.com/107635386/205425745-ce81f427-fb32-4a33-bcae-2be1f4113dee.png)
+I'm a skilled developer with expertise in creating systems using the MERN stack, as well as designing and building both static and dynamic websites. I'm passionate about helping my clients achieve their goals and I'm always eager to learn new ways to improve my skills and interact with different clients. Whether you're looking to build a complex web application or simply need a professional-looking website, I'm here to help. Let's work together to bring your ideas to life!
 
 ![Profile views](https://gpvc.arturio.dev/nayr0531)  
 
 ## TECH STACK: 
-HTML / CSS / SCSS / JAVASCRIPT
+HTML / CSS / SCSS / JAVASCRIPT / MONGODB / EXPRESS JS / REACT / NODE JS / MERN STACK
 
 ## Recently works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nayr0531&repo=Generate-password)]([https://github.com/nayr0531/Generate-password](https://github.com/nayr0531/Generate-password))
