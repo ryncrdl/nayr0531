@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm RYAN D. CORDIAL 👋
 
-I'm a versatile developer based in the Philippines with a passion for creating full-functional systems across various platforms.
+I'm a Full Stack Developer based in the Philippines with a passion for creating full-functional systems across various platforms.
 
 ### 🚀 My Expertise
 
